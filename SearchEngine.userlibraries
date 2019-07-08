@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lucene-analyzers-common-8.1.1">
+    <archive path="/home/daya/Downloads/Compressed/lucene-8.1.1/analysis/common/lucene-analyzers-common-8.1.1.jar" />
+    <archive path="/home/daya/Downloads/Compressed/lucene-8.1.1/core/lucene-core-8.1.1.jar" />
+    <archive path="/home/daya/Downloads/Compressed/lucene-8.1.1/queries/lucene-queries-8.1.1.jar" />
+    <archive path="/home/daya/Downloads/Compressed/lucene-8.1.1/queryparser/lucene-queryparser-8.1.1.jar" />
+  </library>
+  <library name="super-csv-2.4.0">
+    <archive path="/home/daya/IdeaProjects/SearchEngine/super-csv-2.4.0.jar" />
+  </library>
+  <library name="Python 3.5 (Introduction to Python) interpreter library">
+    <archive path="/home/daya/.IdeaIC2018.3/system/python_stubs/-2009825854" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/python-skeletons" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/stdlib/3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/third_party/3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+  </library>
+  <library name="Python 3.7 interpreter library">
+    <archive path="/opt/anaconda3/lib/python3.7" />
+    <archive path="/opt/anaconda3/lib/python3.7/lib-dynload" />
+    <archive path="/opt/anaconda3/lib/python3.7/site-packages" />
+    <archive path="/home/daya/.IdeaIC2019.1/system/python_stubs/997149318" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/python-skeletons" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/stdlib/3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/stdlib/2and3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/third_party/3" />
+    <archive path="/home/daya/.IdeaIC2019.1/config/plugins/python-ce/helpers/typeshed/third_party/2and3" />
+  </library>
+</eclipse-userlibraries>
+
